@@ -1,0 +1,129 @@
+:root {
+  --main-bg-color: white;
+  --header-bg-color: grey;
+  --name-font: bold 22px Arial;
+  --header-font: bold 16px Arial;
+  --header-font-color: white;
+  --bold-font: bold 16px Arial;
+  --main-font: normal 16px Arial;
+  --italic-font: italic normal 16px Arial;
+  --different-font: normal 16px Times;
+  --button-bg-color: grey;
+  --button-border-color: white;
+  --button-border_active-color: lightgrey;
+}
+
+.appWrapper {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px 40px 20px 40px;
+  background-color: var(--main-bg-color);
+}
+
+.name {
+  font: var(--name-font);
+  text-transform: uppercase;
+  margin-top: 0px;
+  margin-bottom: 40px;
+}
+
+.avatar {
+  width: 180px;
+}
+
+.header {
+  margin: 2px 0;
+  padding: 5px 50px;
+  background: var(--header-bg-color);
+  font: var(--header-font);
+  color: var(--header-font-color);
+}
+
+.button {
+  float: right;
+  border-radius: 30px;
+  border: solid var(--button-border-color) 1px;
+  background-color: var(--button-bg-color);
+  padding: 0.7px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.button:active {
+  border-color: var(--button-border_active-color);
+}
+
+.arrowButtonToClose {
+  width: 15px;
+  vertical-align: middle;
+}
+.arrowButtonToOpen {
+  width: 15px;
+  vertical-align: middle;
+  transform: rotate(180deg);
+}
+
+.contentShow {
+  padding: 20px 0;
+  font: var(--main-font);
+}
+
+.contentHidden {
+  display: none;
+}
+
+.bold {
+  font: var(--bold-font);
+}
+
+.italic {
+  font: var(--italic-font);
+}
+
+.normal {
+  font: var(--main-font);
+}
+
+.different {
+  font: var( --different-font);
+}
+
+.underlined {
+  text-decoration: underline;
+}
+
+.ulNoMarginTop {
+  margin-top: 0px;
+}
+
+@media (max-width: 900px) {
+  .appWrapper {
+    width: 80%;
+  }
+}
+
+@media (max-width: 600px) {
+  .appWrapper {
+    padding: 10px 20px;
+  }
+
+  .name {
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 280px) {
+  .avatar {
+    width: 99%;
+  }
+
+  .header {
+    padding: 5px 5px;
+  }
+
+  .button {
+    float: none;
+    margin-left: 10px;
+  }
+}
