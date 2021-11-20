@@ -67,7 +67,7 @@ let WorkExperience = () => {
           2007 – 2021: Individual entrepreneur.
           <br />
           <span className={styleApp.normal}>
-            I have done work for large trading companies as an attorney.
+            I worked under a commission agreement
           </span>
         </p>
         <div className={styleApp.italic}>
