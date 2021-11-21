@@ -111,6 +111,10 @@
   .name {
     margin-top: 20px;
   }
+
+  .header {
+    padding-left: 20px;
+  }
 }
 
 @media (max-width: 280px) {

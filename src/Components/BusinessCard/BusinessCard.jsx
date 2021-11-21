@@ -26,7 +26,7 @@ let BusinessCard = () => {
             </p>
             <p className={styleApp.bold}>
               Linkedin:{" "}
-              <a href="linkedin.com/in/aliaksei-barkouski-4972b2ba">Link to Linkedin</a>
+              <a href="www.linkedin.com/in/aliaksei-barkouski-4972b2ba">Link to Linkedin</a>
             </p>
           </div>
         </div>
