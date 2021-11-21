@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/CV/static/css/main.857cbffd.chunk.css",
-    "main.js": "/CV/static/js/main.cc340ba0.chunk.js",
-    "main.js.map": "/CV/static/js/main.cc340ba0.chunk.js.map",
+    "main.css": "/CV/static/css/main.f8c1de0c.chunk.css",
+    "main.js": "/CV/static/js/main.f842faa1.chunk.js",
+    "main.js.map": "/CV/static/js/main.f842faa1.chunk.js.map",
     "runtime-main.js": "/CV/static/js/runtime-main.d7340f51.js",
     "runtime-main.js.map": "/CV/static/js/runtime-main.d7340f51.js.map",
     "static/js/2.4ec00af9.chunk.js": "/CV/static/js/2.4ec00af9.chunk.js",
     "static/js/2.4ec00af9.chunk.js.map": "/CV/static/js/2.4ec00af9.chunk.js.map",
     "index.html": "/CV/index.html",
-    "static/css/main.857cbffd.chunk.css.map": "/CV/static/css/main.857cbffd.chunk.css.map",
+    "static/css/main.f8c1de0c.chunk.css.map": "/CV/static/css/main.f8c1de0c.chunk.css.map",
     "static/js/2.4ec00af9.chunk.js.LICENSE.txt": "/CV/static/js/2.4ec00af9.chunk.js.LICENSE.txt",
     "static/media/arrow-button.085fb73f.svg": "/CV/static/media/arrow-button.085fb73f.svg",
     "static/media/avatar.ba846230.jpg": "/CV/static/media/avatar.ba846230.jpg"
@@ -16,7 +16,7 @@
   "entrypoints": [
     "static/js/runtime-main.d7340f51.js",
     "static/js/2.4ec00af9.chunk.js",
-    "static/css/main.857cbffd.chunk.css",
-    "static/js/main.cc340ba0.chunk.js"
+    "static/css/main.f8c1de0c.chunk.css",
+    "static/js/main.f842faa1.chunk.js"
   ]
 }
