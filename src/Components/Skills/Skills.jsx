@@ -37,7 +37,7 @@ let Skills = () => {
             target="_blank"
             rel="noreferrer"
           >
-            A1
+            A2
           </a>
         </p>
       </div>

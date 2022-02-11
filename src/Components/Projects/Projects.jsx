@@ -42,6 +42,15 @@ let Projects = () => {
             RETOART
           </a>
         </p>
+        <p className={styleApp.bold}>
+          <a
+            href="https://aleksey-bor.github.io/clock/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            New year alarm clock
+          </a>
+        </p>
         <p>
           <a
             href="https://aleksey-bor.github.io/React_tic_tac-toe/"
