@@ -25,10 +25,10 @@ let Skills = () => {
       </div>
       <div className={isHidden ? styleApp.contentShow : styleApp.contentHidden}>
         <ul>
-          <li>HTML</li>
-          <li>CSS</li>
-          <li>Native JS</li>
+          <li>HTML / CSS</li>
+          <li>JS / TypeScript</li>
           <li>React / Redux</li>
+          <li>jQuery</li>
         </ul>
         <p>
           English Proficiency:{" "}
